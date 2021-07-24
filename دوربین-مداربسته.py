@@ -1,7 +1,8 @@
-#!/usr/bin/env python
 # coding: utf-8
-
-# In[12]:
+"""
+Question:
+https://quera.ir/problemset/contest/2794/سؤال-دوربین-مداربسته
+"""
 
 
 a = input()
